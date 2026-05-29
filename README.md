@@ -17,11 +17,18 @@ Visual components and Python
 
 
 ## Experiment:
+<img width="1083" height="1260" alt="image" src="https://github.com/user-attachments/assets/478f2525-7567-4bd1-8b83-ecdab0337a1e" />
+
 
 
 ## Program
+<img width="914" height="1338" alt="image" src="https://github.com/user-attachments/assets/1a33e445-f58d-43a7-a1d9-82037b9032b8" />
+
 
 
 ## Output
+<img width="615" height="443" alt="image" src="https://github.com/user-attachments/assets/ac46261c-de6e-4520-99cb-c6d03383a4fa" />
+
 
 ## Result
+Thus the program is implemented and executed successfully.
